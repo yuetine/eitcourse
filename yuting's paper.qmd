@@ -6,6 +6,8 @@ title: "The Role of Audiovisual Cues in Shaping Perceived Safety in Urban Walkin
 Walking safety perception is fundamental to encouraging active mobility and enhancing urban vitality. Previous studies have focused mainly on physical attributes such as lighting and visibility; daily urban experiences are also shaped by multisensory cues. The interaction between urban soundscapes and visual features may critically influence how safe people feel while walking. This study explores how audiovisual environments shape perceived walking safety, aiming to provide insights for promoting active mobility and creating healthier, more sustainable cities.
   
 
+![Figure 1: Mindmap of my topic](images/mindmap.png)
+
 ## Methodology  
 
 This study employed a controlled audiovisual experiment to investigate how urban street environments influence perceived walking safety. Participants were presented with video-based street scenarios that varied in visual and auditory conditions, and their safety evaluations were collected.
