@@ -1,0 +1,28 @@
+---
+title: "The Role of Audiovisual Cues in Shaping Perceived Safety in Urban Walking Environments"
+---
+# Introduction  
+
+Walking safety perception is fundamental to encouraging active mobility and enhancing urban vitality. Previous studies have focused mainly on physical attributes such as lighting and visibility; daily urban experiences are also shaped by multisensory cues. The interaction between urban soundscapes and visual features may critically influence how safe people feel while walking. This study explores how audiovisual environments shape perceived walking safety, aiming to provide insights for promoting active mobility and creating healthier, more sustainable cities.
+  
+
+## Methodology  
+
+This study employed a controlled audiovisual experiment to investigate how urban street environments influence perceived walking safety. Participants were presented with video-based street scenarios that varied in visual and auditory conditions, and their safety evaluations were collected.
+
+
+## Results  
+Both visual and auditory cues in urban environments affect perceived walking safety, with some sound categories exerting stronger influence than others. 
+Audiovisual (VA) conditions generally enhance perceived safety compared to visual-only (V) conditions. 
+Natural and human sounds tend to enhance perceived walking safety, whereas traffic sounds significantly reduce perceived safety.
+
+## Conclusion
+This study demonstrates that audiovisual cues in urban environments significantly influence perceived walking safety, with distinct contributions from visual and auditory elements across different sound categories. These findings provide guidance for designing safer, more engaging walking environments. Future work will incorporate physiological measures and multisensory interactions in real-world settings to develop predictive models for optimizing pedestrian experiences.
+
+
+
+
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
